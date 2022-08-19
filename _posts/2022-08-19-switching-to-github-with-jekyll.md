@@ -10,7 +10,7 @@ tags:
 
 It seems like there has been a downfall for blogs as people have decided to use Twitter, Facebook, and LinkedIn to host their thoughts and ideas. However, I think it is really important to own your own data. I don't blog a lot (as you can probably tell). I also don't share a lot online. I haven't posted to Twitter in a long time, and I hardly ever login to Facebook or any other social media site.
 
-I wanted to change this site to more of a portfolio than just a blog. So, Blogger (even though it supports pages) didn't seem like the best solution for a portfolio site. I always knew about GitHub pages and even considered using them when I switched from Wordpress to Blogger.
+I wanted to change this site to more of a portfolio than just a blog. So, Blogger (even though it supports pages) didn't seem like the best solution for a portfolio site. I always knew about GitHub pages and even considered using it when I switched from Wordpress to Blogger.
 
 I made the switch to GitHub Pages. I won't do a big how-to post. I will just tell you to search for "Jekyll GitHub Pages". There are plenty of guides. Since I am in academics, I decided to use the [Al-Folio](https://github.com/alshedivat/al-folio) theme. You can also look into the [Academic Pages](https://academicpages.github.io) theme.
 

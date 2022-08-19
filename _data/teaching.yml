@@ -1,0 +1,46 @@
+- title: Brigham Young University - Hawaii
+  type: time_table
+  year: 2007-Present
+  contents:
+    - number: CIS 101
+      title: Beginning Programming
+      description: Variables, Conditionals, Loops, Arrays, and Control Structures. Taught with Python.
+    - number: CIS 202
+      title: Object-Oriented Programming
+      description: Introduction to object-oriented software development. Classes, Objects, Instantiation, Inheritance, Design, and Documentation. Taught with Java.
+    - number: CIS 205
+      title: Discrete Mathematics 1
+      description: Propositional Logic, Proofs, Counting and Permutations, Permutations, Graphs, Recursion and Induction
+    - number: CIS 206
+      title: Discrete Mathematics 2
+      description: Data Structures, Predicate Logic, Probability
+    - number: CS 210
+      title: Computer Organization
+      description: Binary, Digital Logic, Computer Architecture
+    - number: CS 301
+      title: Algorithms and Complexity
+      description: Algorithms, Complexity, BigO
+    - number: CS 320
+      title: Computer Theory
+      description: Finite Automata, Regular Expressions, Context-Free Grammars, Turing Machines, computability, and undecidability
+    - number: CS 401
+      title: Web Application Development
+      description: Database driven web applications using a Framework (Ruby on Rails)
+    - number: CS 415
+      title: Operating System Design
+      description: Processes, Threads, Interrupts, Concurrency, Networked Programming, Distributed Systems, Memory Management, and Security
+    - number: CS 420
+      title: Programming Languages 
+      description: Programming Language Principles, Recursion, Interpreters
+    - number: CS 440
+      title: Artificial Intelligence
+      description: Overview of intelligent systems and algorithms
+    - number: CS 445
+      title: Robotics
+    - number: CS 490R
+      title: Mobile Application Development
+      description: Mobile app development in with Swift.
+    - number: CS490R
+      title: Advanced Web Application Development
+      description: JavaScript, Web API's, REST, Express, Mongo, Node, Docker, Vue.js, React.js, and Single Page Applications 
+
