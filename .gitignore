@@ -9,5 +9,5 @@ _drafts
 .tweet-cache
 Gemfile.lock
 vendor
-
+.vscode
 
