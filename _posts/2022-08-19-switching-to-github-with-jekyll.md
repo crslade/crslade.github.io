@@ -3,6 +3,7 @@ layout: post
 title: Switching to Github with Jekyll
 date: '2022-08-19'
 author: Christopher Slade
+description: It seems like there has been a downfall for blogs as people have decided to use Twitter, Facebook, and LinkedIn to host their thoughts and ideas. However, I think it is really important to own your own data.
 tags: 
   - Technology
   - Web Hosting
