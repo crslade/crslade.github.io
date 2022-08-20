@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Initial thoughts on my iPad
+title: Initial Thoughts on my iPad
 date: '2011-01-28T14:12:00.000-10:00'
 author: Christopher Slade
 tags:
