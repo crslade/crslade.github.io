@@ -13,13 +13,13 @@ I love to surf, so I created an app to record my sessions. It downloads weather 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/surf1.jpeg" title="log your session" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/surf1.jpeg" title="log your session" alt="log your sessions" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/surf2.jpeg" title="current conditions" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/surf2.jpeg" title="current conditions" alt="current conditions" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/surf3.jpeg" title="auto record" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/surf3.jpeg" title="auto record" alt="current conditions" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
