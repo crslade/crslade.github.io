@@ -3,6 +3,7 @@ layout: post
 title: Aaron Curtis - From Monologue to Dialog
 date: '2008-11-03T00:06:00.000-10:00'
 author: Christopher Slade
+description: Aaron Curtis from Indiana University came to BYU-Hawaii and did a presentation on his dissertation research.  He is studying how much adding a whiteboard (Microsoft One Note) to a typical chatroom (Microsoft Meeting) can improve group understanding.  Although his results are not complete, he says it does look promising.
 tags:
 - Instant Messages
 - Collaboration

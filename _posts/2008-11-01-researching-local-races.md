@@ -3,7 +3,7 @@ layout: post
 title: Researching Local Races
 date: '2008-11-01T01:11:00.000-10:00'
 author: Christopher Slade
-description: How to find information about local races
+description: So I really wanted to know more about the local races here in Hawaii.  I have been getting a lot of fliers in the mail and heard a lot on the radio/TV, but I wanted to research the facts for myself.  Luckily, I found a web site at the Honolulu Advertiser that lets you see all of races, and view the candidates' responses to the issues.  It also had links to their website if you wanted to find out more.
 tags: 
   - Voting 
   - Miscellaneous

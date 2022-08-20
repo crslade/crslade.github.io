@@ -3,6 +3,7 @@ layout: post
 title: Rails Pagination with AJAX
 date: '2009-04-21T05:04:00.000-10:00'
 author: Christopher Slade
+description: When I upgraded to Rails 2.0, I quickly found out that pagination was removed from the rails code base.  In order to get it you have to install a plugin.  After searching on the web I found two possible plugins classic pagination, and will_paginate.  I choose will_paginate because it is more efficient and works directly with the model.
 tags:
 - Rails
 - AJAX

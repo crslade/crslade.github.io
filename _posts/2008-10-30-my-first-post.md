@@ -6,7 +6,7 @@ tags:
   - Miscellaneous 
   - Communication Skills 
   - Comments
-description: First Post
+description: I figured I should dedicate my first post to explaining why I decided to start a blog.  As a Computer Science professor, and a PhD student, I realized that I needed to practice my communication skills and get involved.  Although I would prefer to be strictly on the reading side of technology, in order to really be a part of it I need to contribute.  Hopefully this blog will the the perfect starting place.
 blogger_id: tag:blogger.com,1999:blog-2721499664417059501.post-4584026158115820046
 blogger_orig_url: https://www.christopherslade.com/2008/10/my-first-post.html
 redirect_from: /2008/10/my-first-post.html

@@ -3,6 +3,7 @@ layout: post
 title: Rails Editors and the Command Line
 date: '2011-09-21T07:13:00.000-10:00'
 author: Christopher Slade
+description: One of the first questions you will need to answer when starting with Ruby on Rails, is what editor should you use.
 tags:
 - Rails
 - Teaching

@@ -3,6 +3,7 @@ layout: post
 title: Kynetx App Store
 date: '2011-03-23T13:31:00.000-10:00'
 author: Christopher Slade
+description: Kynetx just launched an App Store to be able to find and manage all of your Kynetx apps. Instead of installing a bunch of different browser extension, you can now just install one. It will keep track of all of your Kynetx apps for you.
 tags:
 - Amazon
 - eBay

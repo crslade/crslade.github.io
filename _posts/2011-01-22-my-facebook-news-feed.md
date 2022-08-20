@@ -3,6 +3,7 @@ layout: post
 title: My Facebook News Feed
 date: '2011-01-22T13:58:00.000-10:00'
 author: Christopher Slade
+description: Take control over your Facebook news feed. Facebook uses a secret formula to decide who makes it into your news feed. Unfortunately, this formula prefers very active Facebook users over less active ones. (Look at the link for some other tips and trick to get you on more of your friends' news feeds.) Anyway, this always bugged me a little bit, so I decided to fix it for the next Kynetx developer contest.
 tags:
 - Facebook
 - Kynetx

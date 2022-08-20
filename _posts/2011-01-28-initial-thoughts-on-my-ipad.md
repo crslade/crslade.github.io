@@ -3,6 +3,7 @@ layout: post
 title: Initial Thoughts on my iPad
 date: '2011-01-28T14:12:00.000-10:00'
 author: Christopher Slade
+description: I know that many reviews have been written about the iPad, so I will keep this short. I just wanted to record my thoughts after owning the iPad for about a week.s
 tags:
 - iPad
 - Technology

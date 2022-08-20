@@ -3,6 +3,7 @@ layout: post
 title: AmaCraigBay
 date: '2010-12-15T15:16:00.000-10:00'
 author: Christopher Slade
+description: For the next Kynetx competition I decided to create AmaCraigBay. I have always talked to friends about how they got this really cool stuff from Craigslist for really cheap, or free. I never think to check Craigslist when I need something. I always pay full price. So, I figured I would put eBay and Craigslist results on Amazon search pages, that way whenever I am on Amazon looking for something, not only will I remember to check Craigslist and eBay, I will see the most popular item from each site right above Amazon's results.
 tags:
 - Amazon
 - Shopping

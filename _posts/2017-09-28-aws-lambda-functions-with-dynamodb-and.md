@@ -3,6 +3,7 @@ layout: post
 title: AWS Lambda Functions with DynamoDB and APIGateway
 date: '2017-09-28T11:31:00.003-10:00'
 author: Christopher Slade
+description: I had a hard time gathering all the information that I needed to be able to deploy a simple API to AWS. I didn't just want to create things in the AWS console because I cannot script it. Scripting allows me to redeploy my work with very little effort.
 tags:
     - AWS Lambda
     - Technology

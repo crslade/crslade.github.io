@@ -3,6 +3,7 @@ layout: post
 title: Another Rails Editor and User Authentication
 date: '2011-10-25T10:17:00.001-10:00'
 author: Christopher Slade
+description: Just another update for any of my past students following along. Redcar seems to have won over all of the students as their favorite Rails editor. 
 tags:
 - Rails
 - Editors

@@ -3,6 +3,7 @@ layout: post
 title: AmaCraigBay now with Google Products
 date: '2011-01-05T05:58:00.000-10:00'
 author: Christopher Slade
+description: I have updated AmaCraigBay to include Google Products.  If you already installed the browser plugin or bookmarklet, you don't need to do anything to get the update.  It should just start showing up.  Google products will include a lot more options to compare from, including stores like Walmart, Target, and KMart.
 tags:
   - Technology
 modified_time: '2011-10-21T21:38:52.565-10:00'

@@ -3,6 +3,7 @@ layout: post
 title: Enticing Computer Science Majors
 date: '2009-08-10T14:12:00.000-10:00'
 author: Christopher Slade
+description: What enticed you to become what you are today?  For me, Computer Science enticed me by giving me the following
 tags:
 - Graphics
 - Teaching

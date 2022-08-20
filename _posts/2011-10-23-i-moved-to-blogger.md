@@ -3,6 +3,7 @@ layout: post
 title: I Moved to Blogger
 date: '2011-10-23T01:44:00.000-10:00'
 author: Christopher Slade
+description: Since it has been another year, it was time for me to reanalyze how I am hosting this blog. A little while ago, I read a blog post by Jesse Stay about switching to Blogger. What I remembered the most was that he has able to host his blog on Blogger for free. Since I don't use this blog much, I don't feel like it is worth it to pay too much for hosting.
 tags:
 - Wordpress
 - Web Hosting

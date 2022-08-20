@@ -2,7 +2,8 @@
 layout: post
 title: Getting delayed_job to Work with Rbenv and Mongoid
 date: '2011-11-04T09:13:00.004-10:00'
-author: fr
+author: Christopher Slade
+description: Rbenv is another option that we can use besides RVM to be able to manage different Ruby versions.
 tags:
 - Rails
 - Technology

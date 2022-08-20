@@ -3,6 +3,7 @@ layout: post
 title: Internet Running Slow? Try OpenDNS
 date: '2010-10-28T13:40:00.000-10:00'
 author: Christopher Slade
+description: I know that technically oriented readers will probably already know this, but for any readers that don't know, there is a way that you could possibly speed up your Internet connection.
 tags:
 - DNS
 - Technology

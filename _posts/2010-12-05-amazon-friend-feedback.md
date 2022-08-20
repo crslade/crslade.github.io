@@ -3,6 +3,7 @@ layout: post
 title: Amazon Friend Feedback
 date: '2010-12-05T12:20:00.000-10:00'
 author: Christopher Slade
+description: Have you ever searched for a product on Amazon, read the reviews and got mixed feelings about weather you should buy it or not.  Did you want to ask your friends opinion?  Well, now you can ask your Facebook friends without ever leaving Amazon.
 tags:
 - Amazon
 - Facebook

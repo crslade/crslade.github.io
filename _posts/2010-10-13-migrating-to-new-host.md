@@ -3,6 +3,7 @@ layout: post
 title: Migrating to a New Host
 date: '2010-10-13T01:24:00.000-10:00'
 author: Christopher Slade
+description: So you probably have already noticed, I am not updating my blog very often.  Trying to teach 3-4 classes a semester, doing a dissertation, and trying to be a good husband and father keeps me really busy.  Although my previous host(bluehost) has been great, I decided to go with a cheaper hosting option.  That meant that I had to migrate my blog to a new server.  If you visit my site, you should notice a new, cleaner look.  I hope you like it.  (Although I am probably just writing this to myself since I don't really have any followers.)  What follows are some of the features and choices I made to make this blog look the way it does.  If you are interested in the technical details, then read on.
 tags:
 - Web Hosting
 - Miscellaneous

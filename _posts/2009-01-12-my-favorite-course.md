@@ -3,6 +3,7 @@ layout: post
 title: My Favorite Course
 date: '2009-01-12T01:29:00.000-10:00'
 author: Christopher Slade
+description: I find it really strange that my favorite course to teach just happens to be the course that I hated the most when I had to take it - computational theory.  I thought that I would love to teach my favorite subject during my undergraduate and graduate studies.  I am not sure why I have had such a change of heart.  All I can do is be grateful that I have a job that has allowed me to teach such a variety of areas.  I have basically taught every course in the undergraduate degree except computer organization and the very beginning programming course in a year and a half.  (Which, by the way, is a very good method for studying for a qualification exam.)  It also excludes courses that are covered by the Information Systems and Technology degrees like networking and databases, and senior level electives.
 tags:
 - Favorite Course
 - Teaching
