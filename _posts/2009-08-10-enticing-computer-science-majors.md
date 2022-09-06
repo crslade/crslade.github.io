@@ -5,9 +5,9 @@ date: '2009-08-10T14:12:00.000-10:00'
 author: Christopher Slade
 description: What enticed you to become what you are today?  For me, Computer Science enticed me by giving me the following
 tags:
-- Graphics
-- Teaching
-- Beginning Programming
+- graphics
+- teaching
+- beginning programming
 blogger_id: tag:blogger.com,1999:blog-2721499664417059501.post-5658135307756904641
 blogger_orig_url: https://www.christopherslade.com/2009/08/enticing-computer-science-majors.html
 redirect_from: /2009/08/enticing-computer-science-majors.html

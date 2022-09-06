@@ -5,10 +5,10 @@ date: '2011-10-23T01:44:00.000-10:00'
 author: Christopher Slade
 description: Since it has been another year, it was time for me to reanalyze how I am hosting this blog. A little while ago, I read a blog post by Jesse Stay about switching to Blogger. What I remembered the most was that he has able to host his blog on Blogger for free. Since I don't use this blog much, I don't feel like it is worth it to pay too much for hosting.
 tags:
-- Wordpress
-- Web Hosting
-- Blogger
-- Technology
+- wordpress
+- web hosting
+- blogger
+- technology
 modified_time: '2011-10-23T21:09:24.408-10:00'
 thumbnail: http://2.bp.blogspot.com/-i0Qp6z9oCBc/TqKihn5DD6I/AAAAAAAACp4/0zmld8hSQ9M/s72-c/download.jpeg
 blogger_id: tag:blogger.com,1999:blog-2721499664417059501.post-1052398323566366468

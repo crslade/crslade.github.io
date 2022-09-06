@@ -5,12 +5,12 @@ date: '2011-03-23T13:31:00.000-10:00'
 author: Christopher Slade
 description: Kynetx just launched an App Store to be able to find and manage all of your Kynetx apps. Instead of installing a bunch of different browser extension, you can now just install one. It will keep track of all of your Kynetx apps for you.
 tags:
-- Amazon
-- eBay
-- Craigslist
-- Facebook
-- Kynetx
-- Technology
+- amazon
+- ebay
+- craigslist
+- facebook
+- kynetx
+- technology
 modified_time: '2011-10-21T10:53:50.550-10:00'
 blogger_id: tag:blogger.com,1999:blog-2721499664417059501.post-4675772108772600181
 blogger_orig_url: https://www.christopherslade.com/2011/03/kynetx-app-store.html

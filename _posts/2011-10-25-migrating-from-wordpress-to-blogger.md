@@ -5,10 +5,10 @@ date: '2011-10-25T00:04:00.001-10:00'
 author: Christopher Slade
 description: Here are some detailed instructions on how I moved my blog from Wordpress to Blogger, including how to get my old Wordpress links to redirect to my new blogger style links.  After the switch, I also learned that Google+ will integrate with Blogger, so that is even more of an incentive.
 tags:
-- Wordpress
-- Web Hosting
-- Blogger
-- Technology
+- wordpress
+- web hosting
+- blogger
+- technology
 modified_time: '2012-04-16T10:10:21.549-10:00'
 thumbnail: http://2.bp.blogspot.com/-i0Qp6z9oCBc/TqKihn5DD6I/AAAAAAAACp4/0zmld8hSQ9M/s72-c/download.jpeg
 blogger_id: tag:blogger.com,1999:blog-2721499664417059501.post-7919171787478655080

@@ -5,8 +5,8 @@ date: '2008-11-27T04:00:00.000-10:00'
 author: Christopher Slade
 description: When I was a student I never really used the course message boards.  I never found any help or answers there.  Right now I am taking a course/seminar at the University of Hawaii.  As part of the course we are required to participate on the message boards.  It has been difficult for me to get really involved, mostly  because no one else is really posting anything for me to comment on.  I also hate commenting just to earn credit, which I have done a few times.  Forcing people to comment on a message board seems to cheapen the conversation.
 tags:
-- Message Boards
-- Teaching
+- message boards
+- teaching
 modified_time: '2011-10-21T10:53:50.505-10:00'
 blogger_id: tag:blogger.com,1999:blog-2721499664417059501.post-1660971304086820085
 blogger_orig_url: https://www.christopherslade.com/2008/11/course-message-boards.html

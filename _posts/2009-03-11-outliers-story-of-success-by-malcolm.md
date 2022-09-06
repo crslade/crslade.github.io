@@ -5,10 +5,10 @@ date: '2009-03-11T07:08:00.000-10:00'
 author: Christopher Slade
 description: The dean of my college gave all the faculty this book.  I really enjoyed reading it.  It was a page turner that made me think a lot about success in my own life.
 tags:
-- Success
-- Teaching
-- Miscellaneous
-- Book Review
+- success
+- teaching
+- miscellaneous
+- book review
 modified_time: '2011-10-21T23:17:32.810-10:00'
 blogger_id: tag:blogger.com,1999:blog-2721499664417059501.post-2299552751817337022
 blogger_orig_url: https://www.christopherslade.com/2009/03/outliers-story-of-success-by-malcolm.html

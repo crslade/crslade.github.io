@@ -5,8 +5,8 @@ date: '2010-10-28T13:40:00.000-10:00'
 author: Christopher Slade
 description: I know that technically oriented readers will probably already know this, but for any readers that don't know, there is a way that you could possibly speed up your Internet connection.
 tags:
-- DNS
-- Technology
+- dns
+- technology
 modified_time: '2011-10-21T21:46:17.058-10:00'
 thumbnail: http://3.bp.blogspot.com/-XoL1oHmHoio/TqJ0ubDl5JI/AAAAAAAACo8/drZodkCt5Dg/s72-c/opendns_logo1.jpg
 blogger_id: tag:blogger.com,1999:blog-2721499664417059501.post-4543802491383058493

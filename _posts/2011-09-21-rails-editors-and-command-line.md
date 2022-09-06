@@ -5,11 +5,11 @@ date: '2011-09-21T07:13:00.000-10:00'
 author: Christopher Slade
 description: One of the first questions you will need to answer when starting with Ruby on Rails, is what editor should you use.
 tags:
-- Rails
-- Teaching
-- Command Line
-- Technology
-- Editors
+- rails
+- teaching
+- command line
+- technology
+- editors
 modified_time: '2011-10-25T10:20:46.293-10:00'
 blogger_id: tag:blogger.com,1999:blog-2721499664417059501.post-1277774929765172761
 blogger_orig_url: https://www.christopherslade.com/2011/09/rails-editors-and-command-line.html

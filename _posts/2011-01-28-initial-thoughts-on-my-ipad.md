@@ -5,8 +5,8 @@ date: '2011-01-28T14:12:00.000-10:00'
 author: Christopher Slade
 description: I know that many reviews have been written about the iPad, so I will keep this short. I just wanted to record my thoughts after owning the iPad for about a week.s
 tags:
-- iPad
-- Technology
+- ipad
+- technology
 modified_time: '2011-10-21T10:53:50.562-10:00'
 blogger_id: tag:blogger.com,1999:blog-2721499664417059501.post-4998297193511403770
 blogger_orig_url: https://www.christopherslade.com/2011/01/initial-thoughts-on-my-ipad.html

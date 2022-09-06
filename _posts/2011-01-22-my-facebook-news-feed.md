@@ -5,9 +5,9 @@ date: '2011-01-22T13:58:00.000-10:00'
 author: Christopher Slade
 description: Take control over your Facebook news feed. Facebook uses a secret formula to decide who makes it into your news feed. Unfortunately, this formula prefers very active Facebook users over less active ones. (Look at the link for some other tips and trick to get you on more of your friends' news feeds.) Anyway, this always bugged me a little bit, so I decided to fix it for the next Kynetx developer contest.
 tags:
-- Facebook
-- Kynetx
-- Technology
+- facebook
+- kynetx
+- technology
 modified_time: '2011-10-21T20:51:57.661-10:00'
 thumbnail: http://3.bp.blogspot.com/-u9A2He3FXsA/TqJn9AqT_UI/AAAAAAAACok/MRRghXLlDnc/s72-c/MyFeedSS1.png
 blogger_id: tag:blogger.com,1999:blog-2721499664417059501.post-1077735555217262305

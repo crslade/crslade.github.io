@@ -5,12 +5,12 @@ date: '2010-12-15T15:16:00.000-10:00'
 author: Christopher Slade
 description: For the next Kynetx competition I decided to create AmaCraigBay. I have always talked to friends about how they got this really cool stuff from Craigslist for really cheap, or free. I never think to check Craigslist when I need something. I always pay full price. So, I figured I would put eBay and Craigslist results on Amazon search pages, that way whenever I am on Amazon looking for something, not only will I remember to check Craigslist and eBay, I will see the most popular item from each site right above Amazon's results.
 tags:
-- Amazon
-- Shopping
-- eBay
-- Craigslist
-- Kynetx
-- Technology
+- amazon
+- shopping
+- ebay
+- craigslist
+- kynetx
+- technology
 modified_time: '2011-10-21T21:41:03.621-10:00'
 thumbnail: http://2.bp.blogspot.com/-I4nCkCQNelA/TqJzf0hgxvI/AAAAAAAACo0/fNxusfccog4/s72-c/screen-271x300.png
 blogger_id: tag:blogger.com,1999:blog-2721499664417059501.post-2690407809031689419

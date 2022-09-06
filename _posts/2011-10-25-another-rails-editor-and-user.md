@@ -5,8 +5,8 @@ date: '2011-10-25T10:17:00.001-10:00'
 author: Christopher Slade
 description: Just another update for any of my past students following along. Redcar seems to have won over all of the students as their favorite Rails editor. 
 tags:
-- Rails
-- Editors
+- rails
+- editors
 modified_time: '2011-10-25T14:18:54.788-10:00'
 blogger_id: tag:blogger.com,1999:blog-2721499664417059501.post-6021402155284632976
 blogger_orig_url: https://www.christopherslade.com/2011/10/another-rails-editor-and-user.html

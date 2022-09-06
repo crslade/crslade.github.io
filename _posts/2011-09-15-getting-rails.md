@@ -5,9 +5,9 @@ date: '2011-09-15T15:04:00.000-10:00'
 author: Christopher Slade
 description: I am teaching a new class this semester called advanced web application development. The main topic is Ruby on Rails.  A lot of students who have either graduated or couldn't take the course for some other reason wanted to me to make videos for them.  I won't have time for videos, but I will post all the material I use here.
 tags:
-- Rails
-- Teaching
-- Technology
+- rails
+- teaching
+- technology
 modified_time: '2011-10-21T10:53:50.531-10:00'
 blogger_id: tag:blogger.com,1999:blog-2721499664417059501.post-3831917563840438774
 blogger_orig_url: https://www.christopherslade.com/2011/09/getting-rails.html

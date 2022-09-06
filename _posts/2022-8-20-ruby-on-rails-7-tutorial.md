@@ -5,9 +5,9 @@ date: '2022-08-19'
 author: Christopher Slade
 description: In my Ruby on Rails class, I created a tutorial series to help students to follow to learn Rails.
 tags: 
-  - Technology
-  - Rails
-  - Tutorials
+  - technology
+  - rails
+  - tutorials
 ---
 
 In my Ruby on Rails class, I created a [tutorial series](https://www.youtube.com/playlist?list=PLmz7pZjxnS1XAnpk7lLyCRLbtCYaSNkpE) to help students to follow to learn Rails. I know there are a lot of tutorials out there, but a lot of them are done in older versions of Rails. There are quite a few breaking changes (like using rails db:migrage intead rake db:migrate), and when you are learning something new this can be really frustrated. 

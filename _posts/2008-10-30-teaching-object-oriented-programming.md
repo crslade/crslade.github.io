@@ -4,9 +4,9 @@ title: Teaching Object-Oriented Programming
 date: '2008-10-30T16:00:00.000-10:00'
 author: Christopher Slade
 tags: 
-  - Teaching 
-  - Beginning Programming 
-  - OO-Programming
+  - teaching 
+  - beginning programming 
+  - oo programming
 description: Since a lot of our students come here with very little computer experience, we had our beginning programming course split into two courses.  The first half focused on variables and control structures, and the second half focused on object-oriented programming with C++.  Some time last year we decided to teach a scripting language (Perl) in the first course due to it's simplicity -- hello world is only one line.  We then created a two course series in object-oriented programming in Java.  This would allow us to make sure our students had a solid object-oriented background and three classes to develop their programming and problem solving skills, something that takes a lot of practice.
 blogger_id: tag:blogger.com,1999:blog-2721499664417059501.post-6863005831936869442
 blogger_orig_url: https://www.christopherslade.com/2008/10/teaching-object-oriented-programming.html

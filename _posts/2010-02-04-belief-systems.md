@@ -5,10 +5,10 @@ date: '2010-02-04T07:31:00.000-10:00'
 author: Christopher Slade
 description: I recently heard a TV personality ridicule religious people by saying they are crazy because their beliefs are not provable, and in his opinion, have been proved wrong.  He attacked all religions but specifically attacked the Mormon religion.  I wasn’t too offended because I know that he says stuff to shock people.  However, I have learned that there is more than one way to build beliefs and knowledge.
 tags:
-- Mormon
-- Belief systems
-- Knowledge
-- Religion
+- mormon
+- belief systems
+- knowledge
+- religion
 modified_time: '2011-10-21T10:53:50.582-10:00'
 blogger_id: tag:blogger.com,1999:blog-2721499664417059501.post-566905738586096598
 blogger_orig_url: https://www.christopherslade.com/2010/02/belief-systems.html

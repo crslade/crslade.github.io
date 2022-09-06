@@ -5,8 +5,8 @@ date: '2008-11-01T01:11:00.000-10:00'
 author: Christopher Slade
 description: So I really wanted to know more about the local races here in Hawaii.  I have been getting a lot of fliers in the mail and heard a lot on the radio/TV, but I wanted to research the facts for myself.  Luckily, I found a web site at the Honolulu Advertiser that lets you see all of races, and view the candidates' responses to the issues.  It also had links to their website if you wanted to find out more.
 tags: 
-  - Voting 
-  - Miscellaneous
+  - voting 
+  - miscellaneous
 modified_time: '2011-10-21T10:53:50.572-10:00'
 blogger_id: tag:blogger.com,1999:blog-2721499664417059501.post-5637284854656648986
 blogger_orig_url: https://www.christopherslade.com/2008/11/researching-local-races.html

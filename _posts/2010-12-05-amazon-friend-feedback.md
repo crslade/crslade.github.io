@@ -5,11 +5,11 @@ date: '2010-12-05T12:20:00.000-10:00'
 author: Christopher Slade
 description: Have you ever searched for a product on Amazon, read the reviews and got mixed feelings about weather you should buy it or not.  Did you want to ask your friends opinion?  Well, now you can ask your Facebook friends without ever leaving Amazon.
 tags:
-- Amazon
-- Facebook
-- Kynetx
-- Technology
-- Web Augmentation
+- amazon
+- dacebook
+- kynetx
+- technology
+- web augmentation
 modified_time: '2011-10-21T21:44:36.646-10:00'
 blogger_id: tag:blogger.com,1999:blog-2721499664417059501.post-4871867676715592364
 blogger_orig_url: https://www.christopherslade.com/2010/12/amazon-friend-feedback.html

@@ -5,8 +5,8 @@ date: '2022-08-19'
 author: Christopher Slade
 description: It seems like there has been a downfall for blogs as people have decided to use Twitter, Facebook, and LinkedIn to host their thoughts and ideas. However, I think it is really important to own your own data.
 tags: 
-  - Technology
-  - Web Hosting
+  - technology
+  - web hosting
 ---
 
 It seems like there has been a downfall for blogs as people have decided to use Twitter, Facebook, and LinkedIn to host their thoughts and ideas. However, I think it is really important to own your own data. I don't blog a lot (as you can probably tell). I also don't share a lot online. I haven't posted to Twitter in a long time, and I hardly ever login to Facebook or any other social media site.

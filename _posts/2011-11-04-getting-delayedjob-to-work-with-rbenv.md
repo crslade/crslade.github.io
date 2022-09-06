@@ -5,8 +5,8 @@ date: '2011-11-04T09:13:00.004-10:00'
 author: Christopher Slade
 description: Rbenv is another option that we can use besides RVM to be able to manage different Ruby versions.
 tags:
-- Rails
-- Technology
+- rails
+- technology
 modified_time: '2011-11-04T09:13:39.555-10:00'
 blogger_id: tag:blogger.com,1999:blog-2721499664417059501.post-8951350656185964873
 blogger_orig_url: https://www.christopherslade.com/2011/11/getting-delayedjob-to-work-with-rbenv.html

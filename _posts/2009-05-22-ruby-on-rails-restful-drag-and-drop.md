@@ -5,11 +5,11 @@ date: '2009-05-22T16:33:00.000-10:00'
 author: Christopher Slade
 description: Ruby on Rails and the script.acul.ous library make drag and drop really easy.  Just by adding one line of code, and you can make anything in your page draggable.  With another line of code, you can make anything receive a draggable element.
 tags:
-- Drag and Drop
-- Rails
-- AJAX
-- RESTful
-- Technology
+- drag and drop
+- rails
+- ajax
+- restful
+- technology
 modified_time: '2011-10-21T10:53:50.526-10:00'
 blogger_id: tag:blogger.com,1999:blog-2721499664417059501.post-3313248225068621469
 blogger_orig_url: https://www.christopherslade.com/2009/05/ruby-on-rails-restful-drag-and-drop.html

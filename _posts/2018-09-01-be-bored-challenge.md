@@ -5,8 +5,8 @@ date: '2018-09-01T11:34:00.000-10:00'
 author: Christopher Slade
 description: One of the best ways to help us become happier is by creating. If we want to create something no one else has created before, we need to think of things that no one has thought of before. Thinking of things that no one has thought of before requires thinking time. It would be nice if we can just schedule an hour to invent our new idea, then sit down during that hour and accomplish it. However, our best ideas do not come on a schedule.
 tags: 
-  - Screentime
-  - Studying
+  - screentime
+  - studying
 modified_time: '2018-09-04T13:33:41.676-10:00'
 thumbnail: https://i.ytimg.com/vi/RhLlnq5yY7k/0.jpg
 blogger_id: tag:blogger.com,1999:blog-2721499664417059501.post-8641335411516615257

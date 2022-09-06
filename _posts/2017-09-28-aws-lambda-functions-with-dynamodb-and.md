@@ -5,8 +5,8 @@ date: '2017-09-28T11:31:00.003-10:00'
 author: Christopher Slade
 description: I had a hard time gathering all the information that I needed to be able to deploy a simple API to AWS. I didn't just want to create things in the AWS console because I cannot script it. Scripting allows me to redeploy my work with very little effort.
 tags:
-    - AWS Lambda
-    - Technology
+    - aws lambda
+    - technology
 modified_time: '2017-09-28T11:31:54.772-10:00'
 blogger_id: tag:blogger.com,1999:blog-2721499664417059501.post-3256867729931253421
 blogger_orig_url: https://www.christopherslade.com/2017/09/aws-lambda-functions-with-dynamodb-and.html
