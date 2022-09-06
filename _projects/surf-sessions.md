@@ -9,9 +9,7 @@ category: fun
 
 I love to surf, so I created an app to record my sessions. It downloads weather and buoy data from the NOAA. Then, when you park to go surfing it starts a timer. When you leave, it notifies you to record your session. It also integrates with the health app.
 
-<div class="row">
 Surf Sessions makes it easy for you to integrate your surfing into an overall fitness plan. Create a list of surfing locations, and then start recording your surfing sessions. This app will estimate the calories you burned while surfing and then share your surfing workouts with the Health App.
-</div>
 
 [![Download from the App Store](/assets/img/AppleAppStore.svg)](https://apps.apple.com/us/app/surf-sessions/id935513127)
 
@@ -47,6 +45,7 @@ I use the buoy data that is closest to you. In the search, all Buoys within a 10
 
 ## What value should I use for my intensity (MET Value)?
 The Metabolic Equivalent is a way to estimate the amount of calories burned by activity type. Surfing has a reported MET Value of 3.0, and competitive surfing has a value of 5.0. However, swimming has a value of 8.0. Any value you use will be an estimate. If you were fighting a current and paddling most of the time, than you might want to use a value closer to 8. That might be closer to a swimming activity. If you just sat on your board the full time, you might want to use a value closer to 2.
+
 
 ## Can I recommend new features?
 Yes, just email me.
