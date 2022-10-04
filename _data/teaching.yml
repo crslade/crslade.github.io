@@ -48,6 +48,6 @@
   type: time_table
   year: Winter 2007
   contents:
-    - number: CS 420
+    - number: CS 320
       title: Programming Languages 
       description: Programming Language Principles, BNF, Interpreters, Scheme (Racket)

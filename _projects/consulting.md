@@ -8,7 +8,7 @@ category: fun
 ---
 
 
-Contact me with your app or website idea. I have lots of web and mobile development experience including the following:
+Contact me with your app or website idea. I have lots of experience in Web and mobile development including the following:
 
 * Full Stake Development
   * Ruby on Rails
