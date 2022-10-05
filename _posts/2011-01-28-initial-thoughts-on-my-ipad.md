@@ -19,7 +19,7 @@ I never even thought about buying an iPad because I didn't think it would fit in
 
 Here is what I like:
 1. Netflix (and other videos). It is really nice to watch movies on it.
-1. It is a lot easier to write emails on my iPad than it is pull out my laptop or type them on my phone. Now I can be more responsive to my students' emails while I am not at my office.
-1. I will actually follow links on twitter now. The Twitter app makes it easy to do. When I am at work I feel too busy to even check twitter, and it's too slow on my phone to follow a link, unless it really sparks my interest.
+1. It is a lot easier to write emails on my iPad than it is to pull out my laptop or type them on my phone. Now I can be more responsive to my students' emails while I am not at my office.
+1. I will actually follow links on Twitter now. The Twitter app makes it easy to do. When I am at work I feel too busy to even check Twitter, and it's too slow on my phone to follow a link unless it really sparks my interest.
 
-Here is what I don't like (I'm easy to please so there is only one complaint.) I still want it to be a computer, and Apple doesn't. I would like a documents folder. I find it frustrating that I have to open an app and then my document. Can't I just click on my document, like I always do on my computer? A USB port would also be nice. I just feel like the iPad goes out of it way to limit what I can do. I think that main reason is so that people will not trade their laptops for iPads. I know the iPad can do more, but Apple won't let it.
+Here is what I don't like (I'm easy to please so there is only one complaint.) I still want it to be a computer, and Apple doesn't. I would like a documents folder. I find it frustrating that I have to open an app and then my document. Can't I just click on my document, like I always do on my computer? A USB port would also be nice. I just feel like the iPad goes out of it way to limit what I can do. I think that the main reason is that people will not trade their laptops for iPads. I know the iPad can do more, but Apple won't let it.

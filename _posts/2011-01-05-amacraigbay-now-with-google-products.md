@@ -22,6 +22,6 @@ If you don't have it installed yet you can get them from my [previous post](http
 | **Shows results for other websites.** |
 
 
-There is a problem when you refine your search.  It will currently show the result from your first search after you refine your search.  If you want to get the refined results, go back to Amazon's home page, and then search again.  You can also click on a product and search from that page.  I am working on fixing it, and hopefully that will happen soon.
+There is a problem when you refine your search.  It will currently show the result from your first search after you refine your search.  If you want to get refined results, go back to Amazon's home page, and then search again.  You can also click on a product and search from that page.  I am working on fixing it, and hopefully, that will happen soon.
 
 Thanks to [Kynetx](http://kynetx.com/) and [YDN](http://developer.yahoo.com/) for making this so easy!

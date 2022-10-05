@@ -13,7 +13,7 @@ blogger_orig_url: https://www.christopherslade.com/2011/10/another-rails-editor-
 redirect_from: /2011/10/another-rails-editor-and-user.html
 ---
 
-Just another update for any of my past students following along. [Redcar](http://redcareditor.com/)seems to have won over all of the students as their favorite Rails editor. 
+Just another update for any of my past students following along. [Redcar](http://redcareditor.com/) seems to have won over all of the students as their favorite Rails editor. 
 
 To install it, you just type "gem install redcar". It looks pretty promising. The students found it on their own, and preferred it to [Sublime Text Edit](http://www.sublimetext.com/blog/articles/sublime-text-2-beta), mostly because it's free and doesn't ask you to pay for it every 10 minutes.
 
