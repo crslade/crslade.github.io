@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Christopher
 middle_name: 
 last_name: Slade
-email: 
+email: christopher.slade [AT ]byuh [dot] edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Associate Professor of Computer Science at BYU - Hawaii
 footer_text: >
@@ -84,7 +84,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: 564825  #your stackoverflow id
 
 contact_note: >
-  
+
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
