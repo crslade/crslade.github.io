@@ -7,6 +7,6 @@ importance: 3
 category: teaching
 ---
 
-I created an online tool that assists our department in scheduling classes. It imports expected enrollment numbers and potential conflicts for students - when a student wants to take more that one class from our department. You can then drag and drop classes into the schedule. The number of conflicts between classes are highlight on the side, to help reduce conflicts for students.
+I created an online tool that assists our department in scheduling classes. It imports expected enrollment numbers and potential conflicts for students - when a student wants to take more than one class from our department. You can then drag and drop classes into the schedule. The number of conflicts between classes is highlighted on the side, to help reduce conflicts for students.
 
 See my [publication](https://files.eric.ed.gov/fulltext/EJ1258195.pdf) for more details.
