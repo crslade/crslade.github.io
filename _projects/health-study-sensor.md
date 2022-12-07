@@ -7,15 +7,15 @@ importance: 1
 category: research
 ---
 
-In coordination with the [Hawaii Digital Health lab](https://peterwashington.github.io) at the University of Hawaii - Manoa, we are conducting a study to see how screen time and study habits affect the mental health of college students. The health sensor app is designed to collect this data securely and privately.
+In coordination with the [Hawaii Digital Health lab](https://peterwashington.github.io) at the University of Hawaii - Manoa, we are conducting a study to see how screen time and study habits affect the stress level of college students. The health sensor app is designed to collect this data securely and privately.
 
 # Privacy Policy 
 
-Our number one priority is to make sure that your privacy is maintained throughout the study. To ensure your privacy, ALL DATA will be anonymous. The mobile app will generate a unique identifier for each participant, but there will be no way to connect that identifier with you (the participant). You cannot see the identifier within the app nor will the identifier be shared with your instructor. The research team will never be able to connect you with this identifier. Your name, email, course, or any other personally identifiable information will not be associated with this identifier.
+Our number one priority is to make sure that your privacy is maintained throughout the study. To ensure your privacy, ALL DATA will be anonymous. There will be no way to connect the data provided by the app with you (the participant). The research team will never be able to connect you with this identifier. Your name, email, course, or any other personally identifiable information will not be associated with this identifier.
 
 # What do I need to do?
 
-All you need to do to participate in this study is install the app. The app will request your consent to participate in the study. (The consent information is also provided below.) The app will request to use your location (see below), but **it will only use your location when you enter or exit the library**. You can then check in by reporting whether you are happy, ok, or sad. The app will send daily notifications reminding you to check in each day. You can see your progress on the app. After 30 days, the study will be finished and you can take a screenshot of your app and submit it to your instructor for extra credit. You need to check in at least 21 of the 30 days to receive all of the extra credit.
+All you need to do to participate in this study is install the app. The app will request your consent to participate in the study. (The consent information is also provided below.) The app will request to use your location (see below), but **it will only use your location when you enter or exit the library**. You can then check in by reporting whether your stress level is good, ok, or bad. The app will send daily notifications reminding you to check in each day. You can see your progress on the app. After 30 days, the study will be finished and you can take a screenshot of the app and submit it to your instructor for extra credit. Please see Canvas or your instructor for details about the extra credit.
 
 # FAQ 
 
@@ -31,42 +31,47 @@ This is the information the app provides when you consent to be a research subje
 
 ## Introduction
 
-This research study is being conducted by Christopher Slade at Brigham Young University – Hawaii and Peter Washington at the University of Hawaii - Manoa to explore how mobile device usage affects your sleep and study habits. You were selected to participate because you are currently taking a class at BYU – Hawaii that is participating in this study.
+Aloha! My name is Christopher Slade, and you are invited to take part in a research study. I am a faculty member of BYU – Hawaii. In conjunction with Peter Washington, a faculty member at the University of Hawaii, we are conducting a study to see how screen time and study habits affect stress in college students. You were selected to participate because you are currently taking a class at BYU – Hawaii that is participating in this study.
 
-## Procedures
+## What am I being asked to do? 
 
-After you consent to be a research subject by clicking on consent below, you will be asked for your permission for this device to collect location data and send notifications. To get the full amount of extra credit, you will need to make sure to check in with the app daily. At the end of the study, you can screenshot your participation report from the app and turn that in for your extra credit.
+If you participate in this project, you will be asked to install an app on your smartphone. The app will send you a daily notification to check in and report your stress level for 30 days. To participate, all you need to do is check in every day.
 
-## Risks/Discomforts
+The app will ONLY collect the following data: 1) your daily check-in report, 2) your daily total screen time usage, and 3) the amount of time you spend in BYU-Hawaii's library.
 
-There are minimal risks to you by participating in this study. However, you may worry about this app collecting personal information. This app will never collect any personally identifiable information, nor will the researchers of this study be able to specifically identify the data you have shared through the app as belonging to you. Your exact location will never be shared.
+All data collected will be anonymous. We will have no way to associate the data collected with you, the participant.
 
-## Benefits
 
-There are no direct benefits to subjects. However, it is hoped that through your participation researchers will learn more about mobile device usage and how applications can be developed to better support sleep and study habits.
+## Taking part in this study is your choice. 
 
-## Confidentiality
+Your participation in this project is completely voluntary. You may stop participating at any time. To stop participating, delete the app from your smartphone. If you stop participating in the study, there will be no penalty or loss to you. Your grade or status in your class will not be affected, and you can still submit an alternative extra credit assignment.
 
-All information provided will remain confidential and will only be reported as group data with no identifying information, especially since no identifying information is collected. All data will be securely stored using industry-standard technology. 
+## Why is this study being done?
+The purpose of our study is to determine how screentime and study time affect stress in college students. We hope that this data can help find ways to help reduce stress for college students.
+
+## What will happen if I decide to take part in this study?
+
+After you install the app on your smartphone, you will be asked to consent to participate in this study. After consenting, you can check in once a day. The app will send a daily notification reminding you to check in.  It will also anonymously collect total screen time usage and use your location to determine if you have entered or exited the library. The app CAN NOT access your location at any other time. After 30 days, you will be prompted to submit a screenshot of your app to Canvas to receive extra credit.
+
+## What are the risks and benefits of taking part in this study?
+
+There are minimal risks to participation in this study. However, you may worry about this app collecting personal information. This app will never collect any personally identifiable information, nor will the researchers of this study be able to specifically identify the data you have shared through the app as belonging to you.
+
+There are no direct benefits to participating in this study. However, it is hoped that through your participation researchers will learn more about mobile device usage and how applications can be developed to reduce stress and develop good study habits.
+
+
+## Confidentiality and Privacy: 
+
+All information collected from the app will remain confidential and will only be reported as group data with no identifying information, especially since no identifying information is collected. Also, any data collected will never be associated with any personally identifiable information throughout the entire study. All data will be securely stored using industry-standard technology. Other agencies that have legal permission have the right to review research records. The University of Hawai'i Human Studies Program has the right to review research records for this study.
 
 ## Compensation
 
-Participants will receive extra credit in your course. Your instructor will specify how much extra credit is available to earn and this information should be posted in Canvas or made available to you by your instructor. The amount of extra credit will be based on your full participation in the study as reported by the app. Your instructor will provide an alternative extra credit assignment equal to the amount of extra credit you can earn by participating in this study. This assignment will be posted in Canvas or otherwise provided by your instructor.
+You will receive extra credit in your course by participating in this study. The exact details are posted in Canvas or provided by your instructor. If you do not wish to participate in this study, an alternative extra credit assignment will be provided.
 
-## Participation
+## Future Research Studies
 
-Participation in this research study is voluntary. You have the right to withdraw at any time or refuse to participate entirely without jeopardy to your class status, grade, or standing with the university. If you choose to withdraw from this study, you will have the chance to complete another extra credit assignment to earn the same amount of extra credit provided by fully participating in this study.
+Even after removing identifiers, the data from this study will not be used or distributed for future research studies.  
 
-## Results
+## Questions
 
-The results of this study will not be provided to the participants.
-
-## Questions about the Research
-
-If you have questions regarding this study, you may contact Christopher Slade at 808-675-3471, Christopher.slade@byuh.edu  or Dr. Peter Washington at pyw@hawaii.edu.
-
-## Questions about your Rights as Research Participants
-
-If you have questions you do not feel comfortable asking the researcher, you may contact Dr. Boyd Timothy, IRB Chair, (808) 675-3931, boyd.timothy@byuh.edu
-
-By clicking on the consent button below, you certify that you have read, understood, and received a copy of the above consent and desire of your own free will and volition to participate in this study.
+If you have any questions about this study, please call or email me at 808.675.3471 or christopher.slade@byuh.edu. You may also contact my faculty advisor, Dr. Peter Washington, at pyw@hawaii.edu. You may contact the UH Human Studies Program at 808.956.5007 or uhirb@hawaii.edu to discuss problems, concerns and questions, obtain information or offer input with an informed individual who is unaffiliated with the specific research protocol. Please visit http://go.hawaii.edu/jRd for more information on your rights as a research participant.
