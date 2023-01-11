@@ -11,7 +11,9 @@ In coordination with the [Hawaii Digital Health lab](https://peterwashington.git
 
 # Privacy Policy 
 
-Our number one priority is to make sure that your privacy is maintained throughout the study. To ensure your privacy, ALL DATA will be anonymous. There will be no way to connect the data provided by the app with you (the participant). The research team will never be able to connect you with this identifier. Your name, email, course, or any other personally identifiable information will not be associated with this identifier.
+Our number one priority is to make sure that your privacy is maintained throughout the study. To ensure your privacy, ALL DATA will be anonymous. Your name, email, course, or any other personally identifiable information will never be collected. We will never be able to personally connect you with the data you provide.
+
+If you wish to stop participating in the study, simply delete the app.
 
 # What do I need to do?
 
