@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Health Sensor Study
-description: We are conducting a study to see how screen time and study habits affect the mental health of college students. 
+description: Privacy Policy and Consent Information
 img: assets/img/HealthSensorIcon.png
 importance: 1
 category: research
@@ -17,9 +17,9 @@ Our number one priority is to make sure that your privacy is maintained througho
 We collect the following data:
 * Your daily check-in report.
 * Your total daily screen time usage. (We do not collect what apps or sites you use.)
-* Your location ONLY when you enter or exit the library on campus. We use this to calculate the total time you spend studying in the library. We need background location access to be able to automatically calculate this study time. You can disable location sharing in the app at any time.
+* Your location ONLY when you enter or exit the library on campus. We use this to calculate the total time you spend studying in the library. We need background location access to be able to automatically calculate this study time. You can disable location sharing in the app at any time. The only time we will collect your location is when you enter or exit the library.
 
-We DO NOT collect any personally identifiable information.
+We DO NOT collect any personally identifiable information or any other data other than what is listed above.
 
 ## How is the information stored
 The data we collect is securely stored in the cloud using industry-standard technology.
@@ -29,6 +29,9 @@ We will use this information to analyze correlations between screen time, study 
 
 ## What if I wish to stop participating in the study and remove my data
 If you no longer wish to participate in the study, simply delete the app from your phone. We will only use data from individuals who have completed the study as reported by the app. If you do not complete the study, your data will be removed from the study findings.
+
+## Sharing Data
+We will never sell any of the data collected. We will analyze the data collected and report it as group data. We will not share the raw data with anyone other than what may be required by the law. The University of Hawai'i Human Studies Program has the right to review research records (the data collected) for this study. 
 
 # What do I need to do?
 
