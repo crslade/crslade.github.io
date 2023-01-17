@@ -11,9 +11,24 @@ In coordination with the [Hawaii Digital Health lab](https://peterwashington.git
 
 # Privacy Policy 
 
-Our number one priority is to make sure that your privacy is maintained throughout the study. To ensure your privacy, ALL DATA will be anonymous. Your name, email, course, or any other personally identifiable information will never be collected. We will never be able to personally connect you with the data you provide.
+Our number one priority is to make sure that your privacy is maintained throughout the study. To ensure your privacy, ALL DATA will be anonymous. Your name, email, course, or any other personally identifiable information will never be collected. We will never be able to personally connect you with the data you provide. If you wish to stop participating in the study, simply delete the app.
 
-If you wish to stop participating in the study, simply delete the app.
+## Information that we collect
+We collect the following data:
+* Your daily check-in report.
+* Your total daily screen time usage. (We do not collect what apps or sites you use.)
+* Your location ONLY when you enter or exit the library on campus. We use this to calculate the total time you spend studying in the library. We need background location access to be able to automatically calculate this study time. You can disable location sharing in the app at any time.
+
+We DO NOT collect any personally identifiable information.
+
+## How is the information stored
+The data we collect is securely stored in the cloud using industry-standard technology.
+
+## How will this information be used
+We will use this information to analyze correlations between screen time, study time, and stress levels. All data will be reported as group data.
+
+## What if I wish to stop participating in the study and remove my data
+If you no longer wish to participate in the study, simply delete the app from your phone. We will only use data from individuals who have completed the study as reported by the app. If you do not complete the study, your data will be removed from the study findings.
 
 # What do I need to do?
 
