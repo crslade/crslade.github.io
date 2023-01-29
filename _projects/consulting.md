@@ -10,7 +10,7 @@ category: fun
 
 Contact me with your app or website idea. I have lots of experience in Web and mobile development including the following:
 
-* Full Stake Development
+* Full Stack Development
   * Ruby on Rails
   * Express
   * React, Vue
