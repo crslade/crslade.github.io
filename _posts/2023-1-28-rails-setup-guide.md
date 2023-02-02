@@ -23,9 +23,11 @@ To set it up, I installed starship with homebrew. Then I needed to put the follo
 
 Then you can customize your prompt by adding a configuration file at `~./config/starship.toml`. I found a good [guide on YouTube](https://www.youtube.com/watch?v=VgTu1_92U0U). It is super easy to customize. Here is my final configuration.
 
+Then for better autocompletion I used `zsh-autosuggestions`. I installed it using homebrew. Don't forget to source it in .zshrc according to the instructions homebrew gives after you install it.
+
 <script src="https://gist.github.com/crslade/2e23f91f8d531aee5b5b6b5b4e38a458.js"></script>
 
-Then to install ruby I use rbenv and ruby-build. You need to put the rbenv initialization in your `.zshrc` file. Install both of those with homebrew. I also use homebrew to install postgresql and puma-dev. Puma-dev needs you to run two commands (one as sudo and one as your regular user).
+Then to install ruby I use rbenv and ruby-build. Install both of those with homebrew. You need to put the rbenv initialization in your `.zshrc` file. I also use homebrew to install postgresql and puma-dev. Puma-dev needs you to run two commands (one with sudo and one without).
 
 I did try [warp](https://www.warp.dev), but for some reason, I couldn't get starship to work with it, even though it says it does. It seems link warp shows a lot of promise but I am not sure I like the idea of having to have an account that could track my shell activity.
 
