@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fish Shell Setup
-date: '2023-01-28'
+date: '2023-06-21'
 author: Christopher Slade
 description: I switched to fish shell and I wanted to document how I set it up.
 tags: 
