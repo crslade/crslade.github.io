@@ -4,7 +4,7 @@ title: Health Sensor Study
 description: Privacy Policy and Consent Information
 img: assets/img/HealthSensorIcon.png
 importance: 1
-category: research
+category: 
 ---
 
 In coordination with the [Hawaii Digital Health lab](https://peterwashington.github.io) at the University of Hawaii - Manoa, we are conducting a study to see how screen time and study habits affect the stress level of college students. The health sensor app is designed to collect this data securely and privately.
