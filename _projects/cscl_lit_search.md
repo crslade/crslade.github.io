@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Literature Search
+title: 2012 Literature Search
 description: Computer-Supported Collaborative Learning
 img: assets/img/CSCL_litreview.png
-importance: 2
+importance: 3
 category: research
 ---
 

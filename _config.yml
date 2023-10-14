@@ -187,6 +187,10 @@ defaults:
       path: "assets/**/*.*"
     values:
       sitemap: true
+  - scope:
+      path: "assets/pdf/mobilesensing.pdf"
+    values:
+      sitemap: false
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier

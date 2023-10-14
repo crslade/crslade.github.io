@@ -41,7 +41,7 @@ We use your location while you are using the map to find the closest buoy statio
 The only free service that can load current conditions is the United States National Buoy Data Center (NBDC), which is part of the National Oceanic and Atmospheric Administration (NOAA). There might be some Buoys outside the US that are included in their service, however, that is not a guarantee. If there is enough interest and financial support (people willing to pay for it), I will consider using a non-free service that can collect data around the world. If you know of a service that provides better data, please contact me.
 
 ## How do you determine which Buoys to use?
-I use the buoy data that is closest to you. In the search, all Buoys within a 100-mile radius are queried. If there are not any buoys within a 100-mile radius, then no data will appear. Hopefully, if you are on an island, the buoy used will be the buoy monitoring the closest shore.
+I use the buoy data that is closest to you. For each surf spot, you can edit the wave, wind, and tide buoy, if there is a better buoy for that spot.
 
 ## What value should I use for my intensity (MET Value)?
 The Metabolic Equivalent is a way to estimate the number of calories burned by activity type. Surfing has a reported MET Value of 3.0, and competitive surfing has a value of 5.0. However, swimming has a value of 8.0. Any value you use will be an estimate. If you were fighting a current and paddling most of the time then you might want to use a value closer to 8. That might be closer to a swimming activity. If you didn;t catch a lot of waves, you might want to use a value closer to 2.
