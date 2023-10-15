@@ -9,6 +9,8 @@ category: research
 
 # A Survey of Literature on Computerized Notational Tools and Their Ability to Support Online Co-Constructive Meaning-Making
 
-[Download the PDF](assets/pdf/cscl_litreview.pdf)
-
 Completed in 2012, this is a literature search I did when I studied Computer-Supported Collaborative Learning.
+
+<h1 class="post-title"><a href="/assets/pdf/cscl_litreview.pdf" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a></h1>
+
+<embed src="/assets/pdf/cscl_litreview.pdf" width="800px" height="2100px" />
