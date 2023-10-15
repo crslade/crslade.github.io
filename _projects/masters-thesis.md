@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Master's Theis
+title: Master's Thesis
 description: On-Disk Sequence Cache
 img: /assets/img/thesis.png
 importance: 4
