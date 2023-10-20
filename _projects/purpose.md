@@ -30,6 +30,7 @@ I completed my Master's of Computer Science in 2005 from Brigham Young Universit
 
 In addition I have two other published articles, which can be found under publications and my [Google Scholar profile](https://scholar.google.com/citations?user=ce2gLDEAAAAJ&hl):
 
-* Literature Search from 2012 on Computer-Supported Collaborative Learning
 * __Liberating Legacy System Data with Rails, Intelligent Use of Conflict Data with Automated Class Scheduling Tools__, was published in Information Systems Education Journal, which has about a 38% acceptance rate. I developed the software used in the paper and wrote the methods section. It received a top paper award.
 * __Using Interactive Graphical Tools to Overcome the" Collage Effect" in Collaborative Learning Environments__, was accepted at HICSS which typically has a 48% acceptance rate.
+
+I have also included my literature search from 2012 on Computer-Supported Collaborative Learning.
