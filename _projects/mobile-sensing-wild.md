@@ -4,7 +4,7 @@ title: Passive Mobile Sensing in the Wild
 description: Design guidelines for studies incorporating passive mobile sensing in the wild.
 img: assets/img/mobile_wild.png
 importance: 2
-category: research
+category: 
 sitemap: false
 ---
 

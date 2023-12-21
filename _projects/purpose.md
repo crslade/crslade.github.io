@@ -4,7 +4,7 @@ title: Statement Of Purpose
 description: Mobile Health Sesning
 img: /assets/img/HealthSensorIcon.png
 importance: 1
-category: research
+category: 
 ---
 
 I have been a CS professor at BYU–Hawaii for 16 years, and throughout that time I have had the privilege of mentoring and teaching students around the world in the field, especially students from areas with limited opportunities. While I am a tenured faculty member, I still desire to pursue new knowledge through software development and research.

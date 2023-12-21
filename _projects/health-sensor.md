@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Health Digital Health Lab
+title: Digital Health Lab
 description: Mobile Passive Sensing
 img: assets/img/HealthSensorIcon.png
 importance: 2
-category: 
+category: research
 ---
 
 In coordination with the [Hawaii Digital Health lab](https://hawaiidigitalhealthlab.com) at the University of Hawaii - Manoa, I have been working on several projects. They include the following:
