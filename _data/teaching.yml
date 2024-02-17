@@ -42,7 +42,10 @@
       description: Mobile app development in with Swift.
     - number: CS490R
       title: Advanced Web Application Development
-      description: JavaScript, Web API's, REST, Express, Mongo, Node, Docker, Vue.js, React.js, and Single Page Applications 
+      description: JavaScript, Web API's, REST, Express, Mongo, Node, Docker, Vue.js, React.js, and Single Page Applications
+    - number: IT 240
+      title: Web Design 
+      description: HTML, CSS, and Web Design Principles
 
 - title: Brigham Young University
   type: time_table
