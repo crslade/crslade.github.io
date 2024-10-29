@@ -19,7 +19,7 @@ Here is what I did:
 1. I also set the default editor in the config file: `set -gx EDITOR vim`.
 1. Install exa for a better ls: `brew install exa`, and set the alias in the config file: `alias ls='exa -lag --header'`.
 1. Install [fisher](https://github.com/jorgebucaran/fisher) to install plugins.
-1. Install plugin for rbenv [fish-rben](https://github.com/rbenv/fish-rbenv).
+1. Install plugin for rbenv [fish-rbenv](https://github.com/rbenv/fish-rbenv).
 1. Install plugin for sdkman [fish-sdkman](https://github.com/reitzig/sdkman-for-fish).
 
 If I ever need to switch back to zsh, I just need to change the default shell.
