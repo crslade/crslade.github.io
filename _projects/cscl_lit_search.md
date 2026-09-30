@@ -1,11 +1,11 @@
----
+<!-- ---
 layout: page
 title: 2012 Literature Search
 description: Computer-Supported Collaborative Learning
 img: assets/img/CSCL_litreview.png
 importance: 3
 category: research
----
+--- -->
 
 # A Survey of Literature on Computerized Notational Tools and Their Ability to Support Online Co-Constructive Meaning-Making
 
