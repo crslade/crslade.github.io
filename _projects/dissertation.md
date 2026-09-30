@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dissertation
-description: On-Disk Sequence Cache
+description: Mobile Health Sensing
 img: /assets/img/thesis.png
 importance: 1
 category: research
